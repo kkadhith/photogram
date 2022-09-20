@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
   }
   final List<Widget> _children = [
   Center(child: Text("HOME")),
-    Center(child: Text("explore")),
+    Center(child: Text("EXPLORE")),
     Center(child: Text("SEARCH")),
     Center(child: Text("REELS")),
     Center(child: Text("PROFILE")),
